@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import {Grid, Jumbotron, Button} from 'react-bootstrap';
 import SearchForm from './components/SearchForm';
 import Results from './components/Results';
+import Table1 from './components/Table';
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
           </Grid>
         </Jumbotron>
         <Results/>
+        <Table1/ >
       </div>
     );
   }
