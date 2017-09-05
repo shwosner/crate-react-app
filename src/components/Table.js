@@ -29,6 +29,12 @@ const Table1 = () => (
                 <td>@fat</td>
             </tr>
             <tr>
+                <td>2</td>
+                <td>Sam</td>
+                <td>Woswos</td>
+                <td>@shwosn</td>
+            </tr>
+            <tr>
                 <td>3</td>
                 <td colSpan="2">Larry the Bird</td>
                 <td>@twitter</td>
